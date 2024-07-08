@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Food Builder</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+
+    <string-array name="tables_array">
+        <item>Baby Foods</item>
+        <item>Baked Products, &#65286; Corn Tortillas</item>
+        <item>Beef Products</item>
+        <item>Beverages</item>
+        <item>Cereal Grains, Pasta, &#65286; Breakfast Cereals</item>
+        <item>Dairy Products</item>
+        <item>Desserts, Pastry, &#65286; other</item>
+        <item>Egg Products</item>
+        <item>Fast Foods, Snacks, and other</item>
+        <item>Fats &#65286; Oils</item>
+        <item>Finfish &#65286; Shellfish Products</item>
+        <item>Fruits &#65286; Fruits Juice</item>
+        <item>Game Products</item>
+        <item>Legumes &#65286; Legume Products</item>
+        <item>Nut &#65286; Seed Products</item>
+        <item>Pork Products</item>
+        <item>Poultry Products</item>
+        <item>Sausages, &#65286; Luncheon Meats</item>
+        <item>Soups, Sauces, &#65286; Gravies</item>
+        <item>Spices &#65286; Herbs</item>
+        <item>Sweets</item>
+        <item>Vegetables &#65286; Vegetable Products</item>
+    </string-array>
+
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="action_websearch">Web search</string>
+    <string name="app_not_available">Sorry, there\'s no web browser available</string>
+    <string name="search_message">Filter by Food Types&#8230;</string>
+    <string name="message_empty_layout_changes">Add an item above to get started.</string>
+    <string name="action_add_item">Add item</string>
+    <string name="action_remove_item">Remove item</string>
+    <string name="search_title">Search</string>
+    <string name="search_hint">Search for food&#8230;</string>
+    <string name="give_a_name">Please give me a name</string>
+    <string name="next">Next</string>
+    <string name="searchForImages">Search for Images</string>
+    <string name="open_camera">Open Camera</string>
+    <string name="foodImage">Image</string>
+    <string name="album_name">Food Builder</string>
+    <string name="plateImage">Image of the plate</string>
+    <string name="title_activity_done_discard">DoneDiscardActivity</string>
+    <string name="done">Done</string>
+    <string name="discard">Discard</string>
+    <string name="title_activity_activity_image_finder">Food Builder</string>
+    <string name="title_activity_activity_grid_view_of_images">Food Builder</string>
+    <string name="title_activity_grid_view_of_images">GridViewOfImages</string>
+    <string name="descr_image">Loading Image</string>
+    <string name="searchHint">Search Image</string>
+</resources>

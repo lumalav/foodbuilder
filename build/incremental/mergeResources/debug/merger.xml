@@ -1,0 +1,538 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="C:\Users\LuisMan\Desktop\Food Builder\res" >
+            <file
+                name="above_shadow"
+                path="C:\Users\LuisMan\Desktop\Food Builder\res\drawable\above_shadow.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="action_search"
+                path="C:\Users\LuisMan\Desktop\Food Builder\res\drawable\action_search.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="action_search"
+                path="C:\Users\LuisMan\Desktop\Food Builder\res\drawable-hdpi\action_search.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="device_access_camera"
+                path="C:\Users\LuisMan\Desktop\Food Builder\res\drawable-hdpi\device_access_camera.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="drawer_shadow"
+                path="C:\Users\LuisMan\Desktop\Food Builder\res\drawable-hdpi\drawer_shadow.9.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_action_new"
+                path="C:\Users\LuisMan\Desktop\Food Builder\res\drawable-hdpi\ic_action_new.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_baby"
+                path="C:\Users\LuisMan\Desktop\Food Builder\res\drawable-hdpi\ic_baby.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_beef"
+                path="C:\Users\LuisMan\Desktop\Food Builder\res\drawable-hdpi\ic_beef.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_drawer"
+                path="C:\Users\LuisMan\Desktop\Food Builder\res\drawable-hdpi\ic_drawer.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\Users\LuisMan\Desktop\Food Builder\res\drawable-hdpi\ic_launcher.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_list_remove"
+                path="C:\Users\LuisMan\Desktop\Food Builder\res\drawable-hdpi\ic_list_remove.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_search"
+                path="C:\Users\LuisMan\Desktop\Food Builder\res\drawable-hdpi\ic_search.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_tortilla"
+                path="C:\Users\LuisMan\Desktop\Food Builder\res\drawable-hdpi\ic_tortilla.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="navigation_forward"
+                path="C:\Users\LuisMan\Desktop\Food Builder\res\drawable-hdpi\navigation_forward.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="action_search"
+                path="C:\Users\LuisMan\Desktop\Food Builder\res\drawable-mdpi\action_search.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="device_access_camera"
+                path="C:\Users\LuisMan\Desktop\Food Builder\res\drawable-mdpi\device_access_camera.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="drawer_shadow"
+                path="C:\Users\LuisMan\Desktop\Food Builder\res\drawable-mdpi\drawer_shadow.9.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ic_action_new"
+                path="C:\Users\LuisMan\Desktop\Food Builder\res\drawable-mdpi\ic_action_new.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ic_baby"
+                path="C:\Users\LuisMan\Desktop\Food Builder\res\drawable-mdpi\ic_baby.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ic_beef"
+                path="C:\Users\LuisMan\Desktop\Food Builder\res\drawable-mdpi\ic_beef.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ic_drawer"
+                path="C:\Users\LuisMan\Desktop\Food Builder\res\drawable-mdpi\ic_drawer.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\Users\LuisMan\Desktop\Food Builder\res\drawable-mdpi\ic_launcher.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ic_list_remove"
+                path="C:\Users\LuisMan\Desktop\Food Builder\res\drawable-mdpi\ic_list_remove.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ic_search"
+                path="C:\Users\LuisMan\Desktop\Food Builder\res\drawable-mdpi\ic_search.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ic_tortilla"
+                path="C:\Users\LuisMan\Desktop\Food Builder\res\drawable-mdpi\ic_tortilla.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="navigation_forward"
+                path="C:\Users\LuisMan\Desktop\Food Builder\res\drawable-mdpi\navigation_forward.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="action_search"
+                path="C:\Users\LuisMan\Desktop\Food Builder\res\drawable-xhdpi\action_search.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="device_access_camera"
+                path="C:\Users\LuisMan\Desktop\Food Builder\res\drawable-xhdpi\device_access_camera.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="drawer_shadow"
+                path="C:\Users\LuisMan\Desktop\Food Builder\res\drawable-xhdpi\drawer_shadow.9.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="graphic"
+                path="C:\Users\LuisMan\Desktop\Food Builder\res\drawable-xhdpi\graphic.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ic_action_new"
+                path="C:\Users\LuisMan\Desktop\Food Builder\res\drawable-xhdpi\ic_action_new.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ic_baby"
+                path="C:\Users\LuisMan\Desktop\Food Builder\res\drawable-xhdpi\ic_baby.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ic_beef"
+                path="C:\Users\LuisMan\Desktop\Food Builder\res\drawable-xhdpi\ic_beef.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ic_drawer"
+                path="C:\Users\LuisMan\Desktop\Food Builder\res\drawable-xhdpi\ic_drawer.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\Users\LuisMan\Desktop\Food Builder\res\drawable-xhdpi\ic_launcher.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ic_list_remove"
+                path="C:\Users\LuisMan\Desktop\Food Builder\res\drawable-xhdpi\ic_list_remove.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ic_search"
+                path="C:\Users\LuisMan\Desktop\Food Builder\res\drawable-xhdpi\ic_search.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ic_tortilla"
+                path="C:\Users\LuisMan\Desktop\Food Builder\res\drawable-xhdpi\ic_tortilla.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="navigation_forward"
+                path="C:\Users\LuisMan\Desktop\Food Builder\res\drawable-xhdpi\navigation_forward.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\Users\LuisMan\Desktop\Food Builder\res\drawable-xxhdpi\ic_launcher.png"
+                qualifiers="xxhdpi"
+                type="drawable" />
+            <file
+                name="activity_main"
+                path="C:\Users\LuisMan\Desktop\Food Builder\res\layout\activity_main.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="animated_layout_item"
+                path="C:\Users\LuisMan\Desktop\Food Builder\res\layout\animated_layout_item.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="drawer_list_item"
+                path="C:\Users\LuisMan\Desktop\Food Builder\res\layout\drawer_list_item.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="page1"
+                path="C:\Users\LuisMan\Desktop\Food Builder\res\layout\page1.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="page2"
+                path="C:\Users\LuisMan\Desktop\Food Builder\res\layout\page2.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="page3"
+                path="C:\Users\LuisMan\Desktop\Food Builder\res\layout\page3.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="activity_layout_changes"
+                path="C:\Users\LuisMan\Desktop\Food Builder\res\menu\activity_layout_changes.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="fragment3_menu"
+                path="C:\Users\LuisMan\Desktop\Food Builder\res\menu\fragment3_menu.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="next_menu"
+                path="C:\Users\LuisMan\Desktop\Food Builder\res\menu\next_menu.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="search_menu"
+                path="C:\Users\LuisMan\Desktop\Food Builder\res\menu\search_menu.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                path="C:\Users\LuisMan\Desktop\Food Builder\res\values\dimens.xml"
+                qualifiers="" >
+                <dimen name="textNewSize" >12dp
+                </dimen>
+                <dimen name="activity_horizontal_margin" >16dp
+                </dimen>
+                <dimen name="activity_vertical_margin" >16dp
+                </dimen>
+            </file>
+            <file
+                path="C:\Users\LuisMan\Desktop\Food Builder\res\values\strings.xml"
+                qualifiers="" >
+                <string name="open_camera" >Open Camera
+                </string>
+                <string name="plateImage" >Image of the plate
+                </string>
+                <string name="foodImage" >Image
+                </string>
+                <string name="action_settings" >Settings
+                </string>
+
+                <string-array name="tables_array" >
+                    <item>
+Baby Foods
+                    </item>
+                    <item>
+Baked Products, ＆ Corn Tortillas
+                    </item>
+                    <item>
+Beef Products
+                    </item>
+                    <item>
+Beverages
+                    </item>
+                    <item>
+Cereal Grains, Pasta, ＆ Breakfast Cereals
+                    </item>
+                    <item>
+Dairy Products
+                    </item>
+                    <item>
+Desserts, Pastry, ＆ other
+                    </item>
+                    <item>
+Egg Products
+                    </item>
+                    <item>
+Fast Foods, Snacks, and other
+                    </item>
+                    <item>
+Fats ＆ Oils
+                    </item>
+                    <item>
+Finfish ＆ Shellfish Products
+                    </item>
+                    <item>
+Fruits ＆ Fruits Juice
+                    </item>
+                    <item>
+Game Products
+                    </item>
+                    <item>
+Legumes ＆ Legume Products
+                    </item>
+                    <item>
+Nut ＆ Seed Products
+                    </item>
+                    <item>
+Pork Products
+                    </item>
+                    <item>
+Poultry Products
+                    </item>
+                    <item>
+Sausages, ＆ Luncheon Meats
+                    </item>
+                    <item>
+Soups, Sauces, ＆ Gravies
+                    </item>
+                    <item>
+Spices ＆ Herbs
+                    </item>
+                    <item>
+Sweets
+                    </item>
+                    <item>
+Vegetables ＆ Vegetable Products
+                    </item>
+                </string-array>
+
+                <string name="search_hint" >Search for food…
+                </string>
+                <string name="action_websearch" >Web search
+                </string>
+                <string name="drawer_close" >Close navigation drawer
+                </string>
+                <string name="search_message" >Filter by Food Types…
+                </string>
+                <string name="searchForImages" >Search for Images
+                </string>
+                <string name="search_title" >Search
+                </string>
+                <string name="action_add_item" >Add item
+                </string>
+                <string name="app_name" >Food Builder
+                </string>
+                <string name="next" >Next
+                </string>
+                <string name="hello_world" >Hello world!
+                </string>
+                <string name="drawer_open" >Open navigation drawer
+                </string>
+                <string name="message_empty_layout_changes" >Add an item above to get started.
+                </string>
+                <string name="album_name" >Food Builder
+                </string>
+                <string name="action_remove_item" >Remove item
+                </string>
+                <string name="give_a_name" >Please give me a name
+                </string>
+                <string name="app_not_available" >Sorry, there\'s no web browser available
+                </string>
+            </file>
+            <file
+                path="C:\Users\LuisMan\Desktop\Food Builder\res\values\styles.xml"
+                qualifiers="" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Light" >
+
+                    <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+                    -->
+                </style>
+
+                <style name="AlertDialogCustom" >
+                    <item name="android:textSize">
+15sp
+                    </item>
+                </style>
+
+                <style
+                    name="AppTheme"
+                    parent="AppBaseTheme" >
+
+                    <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+                </style>
+            </file>
+            <file
+                path="C:\Users\LuisMan\Desktop\Food Builder\res\values-es\strings.xml"
+                qualifiers="es" >
+                <string name="app_not_available" >Sorry, there\'s no web browser available
+                </string>
+                <string name="hello_world" >Hello world!
+                </string>
+                <string name="action_websearch" >Busqueda Web
+                </string>
+                <string name="drawer_open" >Abrir Gaveta
+                </string>
+                <string name="app_name" >Food Builder
+                </string>
+                <string name="search_message" >Filtrar Por Tipos de Comida…
+                </string>
+                <string name="drawer_close" >Cerrar Gaveta
+                </string>
+
+                <string-array name="tables_array" >
+                    <item>
+Comidas Infantiles
+                    </item>
+                    <item>
+Galletas, Panes, Tortillas, ＆ Similares
+                    </item>
+                    <item>
+Carne de Vacuno
+                    </item>
+                    <item>
+Bebidas Diversas
+                    </item>
+                    <item>
+Cereales, Granos Secos, Harinas, ＆ Pastas
+                    </item>
+                    <item>
+Leche, Quesos, ＆ Similares
+                    </item>
+                    <item>
+Postres
+                    </item>
+                    <item>
+Huevos
+                    </item>
+                    <item>
+Comidas Preparadas: Comerciales ＆ Caseras
+                    </item>
+                    <item>
+Aceites ＆ Grasas
+                    </item>
+                    <item>
+Mariscos ＆ Pescados
+                    </item>
+                    <item>
+Frutas ＆ Jugo de Frutas
+                    </item>
+                    <item>
+Carne de Caza
+                    </item>
+                    <item>
+Leguminosas, Granos Secos, ＆ Derivados
+                    </item>
+                    <item>
+Nueces ＆ Semillas
+                    </item>
+                    <item>
+Carne de Cerdo
+                    </item>
+                    <item>
+Carne de Aves
+                    </item>
+                    <item>
+Embutidos ＆ Similares
+                    </item>
+                    <item>
+Aderezos, Salsas, ＆ Sopas
+                    </item>
+                    <item>
+Condimentos
+                    </item>
+                    <item>
+Azúcares, Mieles, ＆ otras Golosinas
+                    </item>
+                    <item>
+Verduras, Hortalizas, ＆ otros Vegetales
+                    </item>
+                </string-array>
+
+                <string name="action_settings" >Opciones
+                </string>
+            </file>
+            <file
+                path="C:\Users\LuisMan\Desktop\Food Builder\res\values-sw720dp-land\dimens.xml"
+                qualifiers="sw720dp-land" >
+                <dimen name="activity_horizontal_margin" >128dp
+                </dimen>
+            </file>
+            <file
+                path="C:\Users\LuisMan\Desktop\Food Builder\res\values-v11\styles.xml"
+                qualifiers="v11" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Holo.Light" >
+
+                    <!-- API 11 theme customizations can go here. -->
+                </style>
+            </file>
+            <file
+                path="C:\Users\LuisMan\Desktop\Food Builder\res\values-v14\styles.xml"
+                qualifiers="v14" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Holo.Light" >
+
+                    <!-- API 14 theme customizations can go here. -->
+                </style>
+            </file>
+            <file
+                name="searchable"
+                path="C:\Users\LuisMan\Desktop\Food Builder\res\xml\searchable.xml"
+                qualifiers=""
+                type="xml" />
+        </source>
+        <source path="C:\Users\LuisMan\Desktop\Food Builder\build\res\rs\debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="C:\Users\LuisMan\Desktop\Food Builder\build-types\debug\res" />
+    </dataSet>
+
+</merger>

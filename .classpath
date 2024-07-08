@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.DEPENDENCIES"/>
+	<classpathentry kind="lib" path="C:/Users/LuisMan/android-sdks/extras/android/support/v4/android-support-v4.jar"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="gen"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/LuisMan/Desktop/Libraries/commons-codec-1.8/commons-codec-1.8.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/LuisMan/Desktop/Libraries/google-gson-2.2.4/gson-2.2.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/LuisMan/Desktop/Libraries/ImageLoader for Android/universal-image-loader-1.8.6.jar"/>
+	<classpathentry kind="output" path="bin/classes"/>
+</classpath>

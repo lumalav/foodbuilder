@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Food Builder</string>
+    <string name="action_settings">Opciones</string>
+    <string name="hello_world">Hello world!</string>
+    
+	<string-array name="tables_array">
+        <item>Comidas Infantiles</item>
+        <item>Galletas, Panes, Tortillas, &#65286; Similares</item>
+        <item>Carne de Vacuno</item>
+        <item>Bebidas Diversas</item>
+        <item>Cereales, Granos Secos, Harinas, &#65286; Pastas</item>
+        <item>Leche, Quesos, &#65286; Similares</item>
+        <item>Postres</item>
+        <item>Huevos</item>
+        <item>Comidas Preparadas: Comerciales &#65286; Caseras</item>
+        <item>Aceites &#65286; Grasas</item>
+        <item>Mariscos &#65286; Pescados</item>
+        <item>Frutas &#65286; Jugo de Frutas</item>
+        <item>Carne de Caza</item>
+        <item>Leguminosas, Granos Secos, &#65286; Derivados</item>
+        <item>Nueces &#65286; Semillas</item>
+        <item>Carne de Cerdo</item>
+        <item>Carne de Aves</item>
+        <item>Embutidos &#65286; Similares</item>
+        <item>Aderezos, Salsas, &#65286; Sopas</item>
+        <item>Condimentos</item>
+        <item>Azúcares, Mieles, &#65286; otras Golosinas</item>
+        <item>Verduras, Hortalizas, &#65286; otros Vegetales</item>
+    </string-array>
+    <string name="drawer_open">Abrir Gaveta</string>
+    <string name="drawer_close">Cerrar Gaveta</string>
+    <string name="action_websearch">Busqueda Web</string>
+    <string name="app_not_available">Sorry, there\'s no web browser available</string>
+    <string name="search_message">Filtrar Por Tipos de Comida&#8230;</string>
+</resources>

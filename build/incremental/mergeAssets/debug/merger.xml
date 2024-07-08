@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="C:\Users\LuisMan\Desktop\Food Builder\assets" >
+            <file
+                name="CompositionFoodTable_LatinAmerica"
+                path="C:\Users\LuisMan\Desktop\Food Builder\assets\CompositionFoodTable_LatinAmerica" />
+            <file
+                name="fonts/AndroidClockMono-Thin.ttf"
+                path="C:\Users\LuisMan\Desktop\Food Builder\assets\fonts\AndroidClockMono-Thin.ttf" />
+            <file
+                name="fonts/Roboto-Bold.ttf"
+                path="C:\Users\LuisMan\Desktop\Food Builder\assets\fonts\Roboto-Bold.ttf" />
+        </source>
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="C:\Users\LuisMan\Desktop\Food Builder\build-types\debug\assets" />
+    </dataSet>
+
+</merger>

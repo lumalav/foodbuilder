@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:id="@+id/openCamera"
+        android:title="@string/open_camera"
+        android:icon="@drawable/device_access_camera"
+        android:showAsAction="ifRoom" />
+    <item android:id="@+id/searchImages"
+        android:title="@string/searchForImages"
+        android:icon="@drawable/ic_search"
+        android:showAsAction="ifRoom" />
+    <item android:id="@+id/nextPage"
+        android:title="@string/next"
+        android:icon="@drawable/navigation_forward"
+        android:showAsAction="ifRoom" />
+
+</menu>

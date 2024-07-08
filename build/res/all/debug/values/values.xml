@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/C:/Users/LuisMan/Desktop/Food%20Builder/res/values/strings.xml -->
+    <string-array name="tables_array">
+        <item>Baby Foods</item>
+        <item>Baked Products, ＆ Corn Tortillas</item>
+        <item>Beef Products</item>
+        <item>Beverages</item>
+        <item>Cereal Grains, Pasta, ＆ Breakfast Cereals</item>
+        <item>Dairy Products</item>
+        <item>Desserts, Pastry, ＆ other</item>
+        <item>Egg Products</item>
+        <item>Fast Foods, Snacks, and other</item>
+        <item>Fats ＆ Oils</item>
+        <item>Finfish ＆ Shellfish Products</item>
+        <item>Fruits ＆ Fruits Juice</item>
+        <item>Game Products</item>
+        <item>Legumes ＆ Legume Products</item>
+        <item>Nut ＆ Seed Products</item>
+        <item>Pork Products</item>
+        <item>Poultry Products</item>
+        <item>Sausages, ＆ Luncheon Meats</item>
+        <item>Soups, Sauces, ＆ Gravies</item>
+        <item>Spices ＆ Herbs</item>
+        <item>Sweets</item>
+        <item>Vegetables ＆ Vegetable Products</item>
+    </string-array>
+    <!-- From: file:/C:/Users/LuisMan/Desktop/Food%20Builder/res/values/dimens.xml -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="textNewSize">12dp</dimen>
+    <!-- From: file:/C:/Users/LuisMan/Desktop/Food%20Builder/res/values/strings.xml -->
+    <string name="action_add_item">Add item</string>
+    <string name="action_remove_item">Remove item</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_websearch">Web search</string>
+    <string name="album_name">Food Builder</string>
+    <string name="app_name">Food Builder</string>
+    <string name="app_not_available">Sorry, there\'s no web browser available</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="foodImage">Image</string>
+    <string name="give_a_name">Please give me a name</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="message_empty_layout_changes">Add an item above to get started.</string>
+    <string name="next">Next</string>
+    <string name="open_camera">Open Camera</string>
+    <string name="plateImage">Image of the plate</string>
+    <string name="searchForImages">Search for Images</string>
+    <string name="search_hint">Search for food…</string>
+    <string name="search_message">Filter by Food Types…</string>
+    <string name="search_title">Search</string>
+    <!-- From: file:/C:/Users/LuisMan/Desktop/Food%20Builder/res/values/styles.xml -->
+    <style name="AlertDialogCustom">
+        <item name="android:textSize">15sp</item>
+    </style>
+
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+
+</resources>
